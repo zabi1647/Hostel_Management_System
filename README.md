@@ -1,5 +1,4 @@
 # Hostel_Management_System
-# Hostel_management_System
 The Hostel Management System is a project designed to simplify the management of a hostel. The system caters to two types of users: the admin and the students. The admin has special privileges and can perform tasks like adding and deleting students, viewing and updating student information, handling complaints, and calculating bills. On the other hand, students can view and update their profiles, check their fees, leave the hostel, add complaints, and view the menu. Let's discuss each component in detail.
 
 Features of the Program:
